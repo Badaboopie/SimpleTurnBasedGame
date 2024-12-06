@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\TurneBasedCombatGame\TurneBasedCombatGame\obj\Debug\net9.0\TurneBasedCombatGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TurneBasedCombatGame\TurneBasedCombatGame\obj\Debug\net9.0\TurneBasedCombatGame.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TurneBasedCombatGame\TurneBasedCombatGame\obj\Debug\net9.0\TurneBasedCombatGame.AssemblyInfo.cs
+C:\Users\User\source\repos\TurneBasedCombatGame\TurneBasedCombatGame\obj\Debug\net9.0\TurneBasedCombatGame.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TurneBasedCombatGame\TurneBasedCombatGame\obj\Debug\net9.0\TurneBasedCombatGame.sourcelink.json
+C:\Users\User\source\repos\TurneBasedCombatGame\TurneBasedCombatGame\bin\Debug\net9.0\TurneBasedCombatGame.exe
+C:\Users\User\source\repos\TurneBasedCombatGame\TurneBasedCombatGame\bin\Debug\net9.0\TurneBasedCombatGame.deps.json
+C:\Users\User\source\repos\TurneBasedCombatGame\TurneBasedCombatGame\bin\Debug\net9.0\TurneBasedCombatGame.runtimeconfig.json
+C:\Users\User\source\repos\TurneBasedCombatGame\TurneBasedCombatGame\bin\Debug\net9.0\TurneBasedCombatGame.dll
+C:\Users\User\source\repos\TurneBasedCombatGame\TurneBasedCombatGame\bin\Debug\net9.0\TurneBasedCombatGame.pdb
+C:\Users\User\source\repos\TurneBasedCombatGame\TurneBasedCombatGame\obj\Debug\net9.0\TurneBasedCombatGame.dll
+C:\Users\User\source\repos\TurneBasedCombatGame\TurneBasedCombatGame\obj\Debug\net9.0\refint\TurneBasedCombatGame.dll
+C:\Users\User\source\repos\TurneBasedCombatGame\TurneBasedCombatGame\obj\Debug\net9.0\TurneBasedCombatGame.pdb
+C:\Users\User\source\repos\TurneBasedCombatGame\TurneBasedCombatGame\obj\Debug\net9.0\TurneBasedCombatGame.genruntimeconfig.cache
+C:\Users\User\source\repos\TurneBasedCombatGame\TurneBasedCombatGame\obj\Debug\net9.0\ref\TurneBasedCombatGame.dll
